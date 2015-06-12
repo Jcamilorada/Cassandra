@@ -1,0 +1,8 @@
+C:\Cassandra\Cassandra .Net\ConsoleApplicationCassandra\ConsoleApplicationCassandra\bin\Debug\ConsoleApplicationCassandra.exe
+C:\Cassandra\Cassandra .Net\ConsoleApplicationCassandra\ConsoleApplicationCassandra\bin\Debug\ConsoleApplicationCassandra.pdb
+C:\Cassandra\Cassandra .Net\ConsoleApplicationCassandra\ConsoleApplicationCassandra\bin\Debug\Cassandra.dll
+C:\Cassandra\Cassandra .Net\ConsoleApplicationCassandra\ConsoleApplicationCassandra\bin\Debug\LZ4.dll
+C:\Cassandra\Cassandra .Net\ConsoleApplicationCassandra\ConsoleApplicationCassandra\bin\Debug\Cassandra.xml
+C:\Cassandra\Cassandra .Net\ConsoleApplicationCassandra\ConsoleApplicationCassandra\obj\Debug\ConsoleApplicationCassandra.csprojResolveAssemblyReference.cache
+C:\Cassandra\Cassandra .Net\ConsoleApplicationCassandra\ConsoleApplicationCassandra\obj\Debug\ConsoleApplicationCassandra.exe
+C:\Cassandra\Cassandra .Net\ConsoleApplicationCassandra\ConsoleApplicationCassandra\obj\Debug\ConsoleApplicationCassandra.pdb
